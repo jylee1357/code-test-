@@ -9,3 +9,5 @@
   - 없는 숫자 더하기 (월간 코드 챌린지 시즌3)
 * June 23rd
   - 음양 더하기 (월간 코드 챌린지 시즌2)
+* June 24th
+  - 소수 만들기 (Summer/Winter Coding)
