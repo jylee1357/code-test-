@@ -11,3 +11,5 @@
   - 음양 더하기 (월간 코드 챌린지 시즌2)
 * June 24th
   - 소수 만들기 (Summer/Winter Coding)
+* June 25th
+  - 완주하지 못한 선수
