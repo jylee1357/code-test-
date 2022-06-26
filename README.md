@@ -13,3 +13,5 @@
   - 소수 만들기 (Summer/Winter Coding)
 * June 25th
   - 완주하지 못한 선수
+* June 26th
+  - 완주하지 못한 선수 마무리
